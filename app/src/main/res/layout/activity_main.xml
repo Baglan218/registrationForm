@@ -63,6 +63,8 @@
             android:layout_marginLeft="275dp"
             android:layout_marginRight="20dp"
             android:text="Enter"
+            android:textColor="@color/colorwhite"
+            android:background="@drawable/button_design2"
             />
 
         <Button
@@ -71,8 +73,12 @@
             android:layout_height="50dp"
             android:layout_marginTop="485dp"
             android:layout_marginLeft="90dp"
+            android:text="Registrate"
+            android:background="@drawable/button_design3"
+            android:textColor="@color/colorwhite"
 
-            android:text="Registrate" />
+            />
+
 
 
     </RelativeLayout>
