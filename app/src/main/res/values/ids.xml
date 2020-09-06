@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnCancel" type="id" />
+    <item name="btnEnter" type="id" />
+    <item name="tvOut" type="id" />
+    <item name="btnRegistration" type="id" />
+    <item name="firstName" type="id" />
+    <item name="secondName" type="id" />
+    <item name="password" type="id" />
+    <item name="email" type="id" />
+    <item name="phone" type="id" />
+    <item name="registerBtn" type="id" />
+    <item name="backBtn" type="id" />
+    <item name="go" type="id" />
+    <item name="in" type="id" />
+    <item name="imageView2" type="id" />
+</resources>

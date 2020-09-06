@@ -15,8 +15,8 @@
 
 
         <ImageView
-            android:layout_width="90dp"
-            android:layout_height="90dp"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
             android:layout_marginLeft="150dp"
             android:layout_marginTop="15dp"
             android:layout_marginRight="30dp"
@@ -27,42 +27,35 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="50dp"
-            android:layout_marginTop="100dp"
+            android:layout_marginTop="120dp"
             android:layout_marginRight="65dp"
+            android:drawableLeft="@drawable/ic_baseline_account_circle_24"
             android:ems="10"
             android:inputType="textPersonName"
-            android:hint="Name" />
+            android:hint="Email" />
 
         <EditText
 
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="50dp"
-            android:layout_marginTop="140dp"
+            android:layout_marginTop="150dp"
             android:layout_marginRight="65dp"
             android:ems="10"
             android:inputType="textPassword"
-            android:hint="Password" />
+            android:hint="Password"
+            android:drawableLeft="@drawable/ic_baseline_lock_24"/>
 
-        <EditText
 
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="50dp"
-            android:layout_marginTop="170dp"
-            android:layout_marginRight="65dp"
-            android:ems="10"
-            android:inputType="phone"
-            android:hint="phone" />
 
         <Button
             android:id="@+id/button"
             android:layout_width="80dp"
             android:layout_height="80dp"
-            android:layout_marginTop="250dp"
+            android:layout_marginTop="260dp"
             android:layout_marginLeft="275dp"
             android:layout_marginRight="20dp"
-            android:text="Enter"
+            android:text="Log In"
             android:textColor="@color/colorwhite"
             android:background="@drawable/button_design2"
             />
@@ -73,7 +66,7 @@
             android:layout_height="50dp"
             android:layout_marginTop="485dp"
             android:layout_marginLeft="90dp"
-            android:text="Registrate"
+            android:text="Registration"
             android:background="@drawable/button_design3"
             android:textColor="@color/colorwhite"
 
